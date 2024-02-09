@@ -1,3 +1,3 @@
 # Demo
-My demo works
+My demo works.
 Author - Fahim-Ruddro
